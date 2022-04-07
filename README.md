@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Getting hired**
 
-- 🌱 I’m currently learning ** the Best Practices for Backend architecture**
+- 🌱 I’m currently learning **the Best Practices for Backend architecture**
 
 - 🤝 I’m looking for help with **My first role**
 
