@@ -23,8 +23,14 @@
 - 📄 Know about my experiences [https://jscrips.com/images/TBResume.pdf](https://jscrips.com/images/TBResume.pdf)
 
 - ⚡ Fun fact **Potato Chips cause more weight gain than any other food. I still eat them though.**
-
+<br/>
+<br/>
+<br/>
 <p align="center"> <a href="https://twitter.com/codeasaurus_rex" target="blank"><img src="https://img.shields.io/twitter/follow/codeasaurus_rex?logo=twitter&style=for-the-badge" alt="codeasaurus_rex" /></a> </p>
+
+<br/>
+<br/>
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jscrips" alt="jscrips" /></a> </p>
 
