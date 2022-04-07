@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jscrips&label=Profile%20views&color=0e75b6&style=flat" alt="jscrips" /> </p>
 
 <h1 align="center">Hi 👋, I'm Terrance</h1>
-<h3 align="center">From Runescape to JavaScript </h3>
+<h3 align="center">From Runescaper to Developer  </h3>
 <p>Terrance is a dedicated and reliable React based Full-Stack Developer that excels in moving with the shifting needs of projects. He is personable and resourceful, which he uses to thrive in team environments, or independently to find efficient solutions to complex problems.</p>
 
 
