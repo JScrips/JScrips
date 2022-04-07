@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Getting hired**
 
-- 🌱 I’m currently learning **Best Practices for Backend architecture**
+- 🌱 I’m currently learning ** the Best Practices for Backend architecture**
 
 - 🤝 I’m looking for help with **My first role**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://jscrips.com/images/TBResume.pdf](https://jscrips.com/images/TBResume.pdf)
 
-- ⚡ Fun fact **Potato Chips cause more weight gain than any other food.**
+- ⚡ Fun fact **Potato Chips cause more weight gain than any other food. I still eat them though.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
