@@ -3,6 +3,11 @@
 </p>
 
 <h1 align="center">Hey, I'm Terrance 👋</h1>
+
+<p align="center">
+  <i>From Runescaper to Senior Engineer — the grind never stops 🎮</i>
+</p>
+
 <h3 align="center">Senior Frontend Engineer | Design Systems Specialist | React & TypeScript</h3>
 
 <p align="center">
@@ -58,7 +63,3 @@ Node.js • REST APIs • PostgreSQL • MongoDB
 <br/>
 
 ---
-
-<p align="center">
-  <i>From Runescaper to Senior Engineer — the grind never stops 🎮</i>
-</p>
